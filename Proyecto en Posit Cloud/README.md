@@ -1,2 +1,1 @@
-## Módulo 2
-# Entrega de Ejercicios de Algoritmos
+## Entrega de Ejercicios de Algoritmos
